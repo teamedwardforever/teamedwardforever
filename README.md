@@ -67,14 +67,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="center">Statistics</h3>
-<div align="center">
+<h3 align="left">Statistics</h3>
+<div align="left">
 <a href="https://github.com/SashenJayathilaka">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajay84sia&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajay84sia&theme=2077"  height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sindresorhus&theme=2077"  height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sindresorhus&theme=2077"  height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sindresorhus&theme=2077"  height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajay84sia&theme=2077" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajay84sia&theme=2077"  height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sindresorhus&theme=2077"  height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sindresorhus&theme=2077"  height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sindresorhus&theme=2077"  height="180em" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
